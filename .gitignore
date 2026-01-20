@@ -1,0 +1,15 @@
+# --- Security & Secrets ---
+# Never commit your API keys or secrets
+.env
+*.env
+.streamlit/secrets.toml
+.dockerignore
+
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
