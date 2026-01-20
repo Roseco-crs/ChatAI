@@ -48,6 +48,9 @@ While many AI wrappers offer basic chat functionality, **ChatAI** is built as a 
 
 ## 🚀 Getting Started
 
+### Quick Test
+[ChatAI](https://huggingface.co/spaces/Co2fi-crs/ChatAI)
+
 ### Prerequisites
 - Docker installed on your machine.
 - Groq API Key for your Open Source LLM provider.
@@ -60,8 +63,6 @@ While many AI wrappers offer basic chat functionality, **ChatAI** is built as a 
    docker build -t app.py .
    docker run --env-file .env -p 8501:7860 --name chatai app.py
 
-### Quick Test
-[ChatAI](https://huggingface.co/spaces/Co2fi-crs/ChatAI)
 
 
 
