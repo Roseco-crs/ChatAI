@@ -1,0 +1,13 @@
+streamlit
+langchain
+sentence-transformers
+huggingface-hub
+pyyaml
+langchain-huggingface
+langchain-core 
+langchain-groq
+python-dotenv
+
+
+
+
