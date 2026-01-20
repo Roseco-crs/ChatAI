@@ -1,6 +1,6 @@
 # 🤖 ChatAI 🤖
 
-[![Owner](https://img.shields.io/badge/Owner-Co2fi--crs-blue.svg)](https://github.com/roseco-crs)
+[![Owner](https://img.shields.io/badge/Owner-Co2fi--Rodolphe--Segbedji-blue.svg)](https://github.com/roseco-crs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 
