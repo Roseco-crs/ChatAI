@@ -1,20 +1,8 @@
-# ChatAI 
----
-title: ChatAI
-emoji: 🤖
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-pinned: false
-app_port: 7860
----
-
 # 🤖 ChatAI 🤖
 
 [![Owner](https://img.shields.io/badge/Owner-Co2fi--crs-blue.svg)](https://github.com/roseco-crs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
-[![Sync to HF](https://github.com/roseco-crs/ChatAI/actions/workflows/sync_to_hf.yml/badge.svg)](https://github.com/roseco-crs/ChatAI/actions)
 
 **ChatAI** is a high-performance conversational assistant designed to provide expert-level help across any field. Built with a focus on speed, user experience, and sophisticated conversation logic, ChatAI bridges the gap between complex Large Language Models and intuitive user interactions.
 
@@ -48,7 +36,7 @@ app_port: 7860
 
 ### Prerequisites
 - Docker installed on your machine.
-- An API Key for your Open Source LLM provider (e.g., Groq or Hugging Face).
+- Groq API Key for your Open Source LLM provider.
 
 ### Local Installation
 1. **Clone the repository:**
